@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Pastel theme tokens (RGB triplets so Tailwind can add opacity) */
+:root {
+  --c-bg: 243 239 231;
+  --c-surface: 253 251 247;
+  --c-soft: 244 240 232;
+  --c-ink: 52 62 57;
+  --c-muted: 118 128 121;
+  --c-line: 229 223 211;
+  --c-sidebar: 122 150 133;
+
+  --c-sage: 143 174 155;  --c-sage-l: 224 235 227;  --c-sage-d: 70 108 88;
+  --c-blue: 157 180 200;  --c-blue-l: 225 234 242;  --c-blue-d: 74 106 138;
+  --c-rose: 217 165 160;  --c-rose-l: 245 225 222;  --c-rose-d: 160 88 82;
+  --c-peach: 232 196 160; --c-peach-l: 249 236 219; --c-peach-d: 150 102 52;
+  --c-lav: 185 176 208;   --c-lav-l: 233 229 243;   --c-lav-d: 100 88 140;
+  color-scheme: light;
+}
+
+/* Soft, muted dark variant of the same palette */
+.dark {
+  --c-bg: 33 38 36;
+  --c-surface: 43 49 46;
+  --c-soft: 52 59 55;
+  --c-ink: 236 233 226;
+  --c-muted: 163 172 166;
+  --c-line: 66 74 69;
+  --c-sidebar: 62 84 71;
+
+  --c-sage-l: 58 76 66;  --c-sage-d: 169 204 183;
+  --c-blue-l: 56 68 80;  --c-blue-d: 170 198 224;
+  --c-rose-l: 82 58 56;  --c-rose-d: 233 177 172;
+  --c-peach-l: 80 68 52; --c-peach-d: 238 204 160;
+  --c-lav-l: 66 61 82;   --c-lav-d: 205 196 232;
+  color-scheme: dark;
+}
+
+html, body, #root { min-height: 100%; }
+
+body {
+  margin: 0;
+  background-color: rgb(var(--c-bg));
+  color: rgb(var(--c-ink));
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+:focus-visible {
+  outline: 2px solid rgb(var(--c-sage-d));
+  outline-offset: 2px;
+}
+
+/* Page entrance: a single gentle fade when switching views */
+@keyframes view-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
+.view-in { animation: view-in 0.35s ease both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .view-in { animation: none; }
+  * { transition: none !important; }
+}
+
+/* Recharts: remove the default focus box on click */
+.recharts-wrapper, .recharts-surface { outline: none; }

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "C001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "city": "Bengaluru"
+  },
+  {
+    "id": "C002",
+    "name": "Emma Garcia",
+    "email": "emma.garcia@example.com",
+    "city": "Singapore"
+  },
+  {
+    "id": "C003",
+    "name": "Liam Brown",
+    "email": "liam.brown@example.com",
+    "city": "Delhi"
+  },
+  {
+    "id": "C004",
+    "name": "Sofia Reddy",
+    "email": "sofia.reddy@example.com",
+    "city": "Sydney"
+  },
+  {
+    "id": "C005",
+    "name": "Noah Wilson",
+    "email": "noah.wilson@example.com",
+    "city": "New York"
+  },
+  {
+    "id": "C006",
+    "name": "Priya Singh",
+    "email": "priya.singh@example.com",
+    "city": "Mumbai"
+  },
+  {
+    "id": "C007",
+    "name": "Oliver Thomas",
+    "email": "oliver.thomas@example.com",
+    "city": "Toronto"
+  },
+  {
+    "id": "C008",
+    "name": "Mia Johnson",
+    "email": "mia.johnson@example.com",
+    "city": "London"
+  },
+  {
+    "id": "C009",
+    "name": "Rohan Nguyen",
+    "email": "rohan.nguyen@example.com",
+    "city": "Bengaluru"
+  },
+  {
+    "id": "C010",
+    "name": "Ava Rao",
+    "email": "ava.rao@example.com",
+    "city": "Singapore"
+  },
+  {
+    "id": "C011",
+    "name": "Ethan Davis",
+    "email": "ethan.davis@example.com",
+    "city": "Delhi"
+  },
+  {
+    "id": "C012",
+    "name": "Isha Mehta",
+    "email": "isha.mehta@example.com",
+    "city": "Sydney"
+  },
+  {
+    "id": "C013",
+    "name": "Lucas Anderson",
+    "email": "lucas.anderson@example.com",
+    "city": "New York"
+  },
+  {
+    "id": "C014",
+    "name": "Zara Verma",
+    "email": "zara.verma@example.com",
+    "city": "Mumbai"
+  },
+  {
+    "id": "C015",
+    "name": "Arjun Patel",
+    "email": "arjun.patel@example.com",
+    "city": "Toronto"
+  },
+  {
+    "id": "C016",
+    "name": "Chloe Kapoor",
+    "email": "chloe.kapoor@example.com",
+    "city": "London"
+  },
+  {
+    "id": "C017",
+    "name": "Kabir Miller",
+    "email": "kabir.miller@example.com",
+    "city": "Bengaluru"
+  },
+  {
+    "id": "C018",
+    "name": "Nora Iyer",
+    "email": "nora.iyer@example.com",
+    "city": "Singapore"
+  },
+  {
+    "id": "C019",
+    "name": "Daniel Taylor",
+    "email": "daniel.taylor@example.com",
+    "city": "Delhi"
+  },
+  {
+    "id": "C020",
+    "name": "Meera Nair",
+    "email": "meera.nair@example.com",
+    "city": "Sydney"
+  },
+  {
+    "id": "C021",
+    "name": "Aarav Johnson",
+    "email": "aarav.johnson@example.com",
+    "city": "New York"
+  },
+  {
+    "id": "C022",
+    "name": "Emma Nguyen",
+    "email": "emma.nguyen@example.com",
+    "city": "Mumbai"
+  },
+  {
+    "id": "C023",
+    "name": "Liam Rao",
+    "email": "liam.rao@example.com",
+    "city": "Toronto"
+  },
+  {
+    "id": "C024",
+    "name": "Sofia Davis",
+    "email": "sofia.davis@example.com",
+    "city": "London"
+  },
+  {
+    "id": "C025",
+    "name": "Noah Mehta",
+    "email": "noah.mehta@example.com",
+    "city": "Bengaluru"
+  },
+  {
+    "id": "C026",
+    "name": "Priya Anderson",
+    "email": "priya.anderson@example.com",
+    "city": "Singapore"
+  },
+  {
+    "id": "C027",
+    "name": "Oliver Verma",
+    "email": "oliver.verma@example.com",
+    "city": "Delhi"
+  },
+  {
+    "id": "C028",
+    "name": "Mia Patel",
+    "email": "mia.patel@example.com",
+    "city": "Sydney"
+  },
+  {
+    "id": "C029",
+    "name": "Rohan Kapoor",
+    "email": "rohan.kapoor@example.com",
+    "city": "New York"
+  },
+  {
+    "id": "C030",
+    "name": "Ava Miller",
+    "email": "ava.miller@example.com",
+    "city": "Mumbai"
+  },
+  {
+    "id": "C031",
+    "name": "Ethan Iyer",
+    "email": "ethan.iyer@example.com",
+    "city": "Toronto"
+  },
+  {
+    "id": "C032",
+    "name": "Isha Taylor",
+    "email": "isha.taylor@example.com",
+    "city": "London"
+  },
+  {
+    "id": "C033",
+    "name": "Lucas Nair",
+    "email": "lucas.nair@example.com",
+    "city": "Bengaluru"
+  },
+  {
+    "id": "C034",
+    "name": "Zara Sharma",
+    "email": "zara.sharma@example.com",
+    "city": "Singapore"
+  },
+  {
+    "id": "C035",
+    "name": "Arjun Garcia",
+    "email": "arjun.garcia@example.com",
+    "city": "Delhi"
+  },
+  {
+    "id": "C036",
+    "name": "Chloe Brown",
+    "email": "chloe.brown@example.com",
+    "city": "Sydney"
+  },
+  {
+    "id": "C037",
+    "name": "Kabir Reddy",
+    "email": "kabir.reddy@example.com",
+    "city": "New York"
+  },
+  {
+    "id": "C038",
+    "name": "Nora Wilson",
+    "email": "nora.wilson@example.com",
+    "city": "Mumbai"
+  },
+  {
+    "id": "C039",
+    "name": "Daniel Singh",
+    "email": "daniel.singh@example.com",
+    "city": "Toronto"
+  },
+  {
+    "id": "C040",
+    "name": "Meera Thomas",
+    "email": "meera.thomas@example.com",
+    "city": "London"
+  }
+]

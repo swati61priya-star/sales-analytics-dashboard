@@ -1,0 +1,242 @@
+[
+  {
+    "id": "P001",
+    "name": "Wireless Earbuds Pro",
+    "category": "Electronics",
+    "price": 89,
+    "cost": 62.3,
+    "stock": 140,
+    "popularity": 9,
+    "emoji": "🎧"
+  },
+  {
+    "id": "P002",
+    "name": "Smart Watch Series 5",
+    "category": "Electronics",
+    "price": 199,
+    "cost": 139.3,
+    "stock": 64,
+    "popularity": 7,
+    "emoji": "⌚"
+  },
+  {
+    "id": "P003",
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 59,
+    "cost": 41.3,
+    "stock": 210,
+    "popularity": 8,
+    "emoji": "🔊"
+  },
+  {
+    "id": "P004",
+    "name": "4K Action Camera",
+    "category": "Electronics",
+    "price": 149,
+    "cost": 104.3,
+    "stock": 38,
+    "popularity": 4,
+    "emoji": "📷"
+  },
+  {
+    "id": "P005",
+    "name": "Classic Denim Jacket",
+    "category": "Fashion",
+    "price": 79,
+    "cost": 45.82,
+    "stock": 95,
+    "popularity": 6,
+    "emoji": "🧥"
+  },
+  {
+    "id": "P006",
+    "name": "Canvas Everyday Sneakers",
+    "category": "Fashion",
+    "price": 65,
+    "cost": 37.7,
+    "stock": 180,
+    "popularity": 9,
+    "emoji": "👟"
+  },
+  {
+    "id": "P007",
+    "name": "Leather Crossbody Bag",
+    "category": "Fashion",
+    "price": 95,
+    "cost": 55.1,
+    "stock": 72,
+    "popularity": 5,
+    "emoji": "👜"
+  },
+  {
+    "id": "P008",
+    "name": "Linen Summer Shirt",
+    "category": "Fashion",
+    "price": 45,
+    "cost": 26.1,
+    "stock": 160,
+    "popularity": 6,
+    "emoji": "👕"
+  },
+  {
+    "id": "P009",
+    "name": "Ceramic Planter Set",
+    "category": "Home & Living",
+    "price": 39,
+    "cost": 24.18,
+    "stock": 120,
+    "popularity": 6,
+    "emoji": "🪴"
+  },
+  {
+    "id": "P010",
+    "name": "Aroma Diffuser",
+    "category": "Home & Living",
+    "price": 49,
+    "cost": 30.38,
+    "stock": 8,
+    "popularity": 7,
+    "emoji": "🕯️"
+  },
+  {
+    "id": "P011",
+    "name": "Cotton Throw Blanket",
+    "category": "Home & Living",
+    "price": 55,
+    "cost": 34.1,
+    "stock": 90,
+    "popularity": 5,
+    "emoji": "🛋️"
+  },
+  {
+    "id": "P012",
+    "name": "Minimal Table Lamp",
+    "category": "Home & Living",
+    "price": 69,
+    "cost": 42.78,
+    "stock": 56,
+    "popularity": 4,
+    "emoji": "💡"
+  },
+  {
+    "id": "P013",
+    "name": "Hydrating Face Serum",
+    "category": "Beauty",
+    "price": 34,
+    "cost": 17,
+    "stock": 230,
+    "popularity": 9,
+    "emoji": "🧴"
+  },
+  {
+    "id": "P014",
+    "name": "Matte Lipstick Set",
+    "category": "Beauty",
+    "price": 29,
+    "cost": 14.5,
+    "stock": 260,
+    "popularity": 8,
+    "emoji": "💄"
+  },
+  {
+    "id": "P015",
+    "name": "Herbal Shampoo",
+    "category": "Beauty",
+    "price": 22,
+    "cost": 11,
+    "stock": 310,
+    "popularity": 7,
+    "emoji": "🧼"
+  },
+  {
+    "id": "P016",
+    "name": "Vitamin C Cream",
+    "category": "Beauty",
+    "price": 38,
+    "cost": 19,
+    "stock": 5,
+    "popularity": 6,
+    "emoji": "🍊"
+  },
+  {
+    "id": "P017",
+    "name": "Yoga Mat Pro",
+    "category": "Sports",
+    "price": 42,
+    "cost": 26.88,
+    "stock": 130,
+    "popularity": 8,
+    "emoji": "🧘"
+  },
+  {
+    "id": "P018",
+    "name": "Insulated Water Bottle",
+    "category": "Sports",
+    "price": 24,
+    "cost": 15.36,
+    "stock": 340,
+    "popularity": 9,
+    "emoji": "💧"
+  },
+  {
+    "id": "P019",
+    "name": "Adjustable Dumbbells",
+    "category": "Sports",
+    "price": 120,
+    "cost": 76.8,
+    "stock": 42,
+    "popularity": 3,
+    "emoji": "🏋️"
+  },
+  {
+    "id": "P020",
+    "name": "Resistance Band Kit",
+    "category": "Sports",
+    "price": 28,
+    "cost": 17.92,
+    "stock": 175,
+    "popularity": 6,
+    "emoji": "🎗️"
+  },
+  {
+    "id": "P021",
+    "name": "Design Thinking Handbook",
+    "category": "Books",
+    "price": 26,
+    "cost": 15.6,
+    "stock": 110,
+    "popularity": 4,
+    "emoji": "📘"
+  },
+  {
+    "id": "P022",
+    "name": "Data Science Basics",
+    "category": "Books",
+    "price": 32,
+    "cost": 19.2,
+    "stock": 95,
+    "popularity": 5,
+    "emoji": "📊"
+  },
+  {
+    "id": "P023",
+    "name": "Mindful Living Journal",
+    "category": "Books",
+    "price": 18,
+    "cost": 10.8,
+    "stock": 200,
+    "popularity": 6,
+    "emoji": "📓"
+  },
+  {
+    "id": "P024",
+    "name": "Cooking for Beginners",
+    "category": "Books",
+    "price": 24,
+    "cost": 14.4,
+    "stock": 12,
+    "popularity": 3,
+    "emoji": "🍳"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Electronics",
+    "color": "#9DB4C8",
+    "emoji": "🎧"
+  },
+  {
+    "name": "Fashion",
+    "color": "#D9A5A0",
+    "emoji": "👗"
+  },
+  {
+    "name": "Home & Living",
+    "color": "#8FAE9B",
+    "emoji": "🪴"
+  },
+  {
+    "name": "Beauty",
+    "color": "#B9B0D0",
+    "emoji": "💄"
+  },
+  {
+    "name": "Sports",
+    "color": "#E8C4A0",
+    "emoji": "🧘"
+  },
+  {
+    "name": "Books",
+    "color": "#D8CBB0",
+    "emoji": "📚"
+  }
+]
