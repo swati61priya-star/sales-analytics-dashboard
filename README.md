@@ -1,10 +1,12 @@
 # SalesPulse - Sales Analytics Dashboard
 
+![Dashboard](screenshot.png)
+
 A modern, pastel-themed **sales analytics dashboard** built with React, Tailwind CSS and Recharts.
 It is a frontend-only project: no backend, no database and no API keys. All figures are calculated from
 realistic **demo data** (about 1,500 sample orders, 24 products and 40 customers) that is generated in the browser.
 
-> Live demo: _add your Vercel link here after deploying_
+> Live demo: https://sales-analytics-dashboard-mauve.vercel.app/
 
 ## Features
 
